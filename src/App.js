@@ -7,6 +7,8 @@ import Country_list from './component/country_list/country_list';
 import Invent_area from './component/invent_area/invent_area';
 import Reg_form from './component/reg_form/reg_form';
 import Slideshow from './component/header_slider/slider';
+import Post_area from './component/post_area/post_area';
+import Contact from './component/contact/contact';
 
 
 function App() {
