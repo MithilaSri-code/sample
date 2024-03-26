@@ -1,0 +1,15 @@
+.footer_topic{
+    background-color:rgb(2,25,52);
+    color: white;
+}
+
+.footer_mainlink a{
+    text-decoration: none;
+    color: white;
+
+}
+h6{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
