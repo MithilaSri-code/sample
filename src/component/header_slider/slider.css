@@ -1,1 +1,16 @@
 @import "react-slideshow-image/dist/styles.css";
+
+.slide-container{
+    width: 100%;
+}
+
+.enroll_link{
+    width: 400px;
+}
+
+.enroll_link a{
+    color: rgb(255,245,0);
+    text-decoration: none;
+
+
+}

@@ -9,8 +9,8 @@ import image2 from '../../../src/assest/cheerful-students-communicating-after-le
 const Post_area = () => {
     return (
         <div>
-            <Box>
-                <Container className='main_post_area'>
+            <Box className='main_post_area'>
+                <Container >
                     <Grid container item>
 
                         <Grid item xs={12} md={12} py={4}>

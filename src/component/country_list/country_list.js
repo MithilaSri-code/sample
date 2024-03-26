@@ -6,7 +6,7 @@ import './country_list.css'
 const Country_list = () => {
   return (
     <div>
-          <Box>
+          <Box className='list_main'>
               <Container >
                   <Grid container item >
                       <Grid item xs={12} md={8} py={4} className='country_list'>

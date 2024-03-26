@@ -1,9 +1,13 @@
 .country_list{
     background-color:rgb(254,203,42);
     padding-left: 100px;
-   
+
 }
 
 .redcolor{
     color: rgb(255,23,9);
+}
+
+.list_main{
+    width: 100%;
 }
