@@ -1,0 +1,19 @@
+.topic_area {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.main_post_area{
+    background-color: rgb(250,244,196);
+}
+
+.post{
+    background-color: rgb(255,255,255);
+    padding: 10px;
+
+}
+.post_main{
+    display: flex;
+  justify-content: space-around;
+}
