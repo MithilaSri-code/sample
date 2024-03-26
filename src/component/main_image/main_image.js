@@ -6,8 +6,8 @@ import { Grid } from "@mui/material";
 const Main_image = () => {
   return (
       <div>
-          <Grid item >
-          <img src={image} alt="main image" className='image'  />
+      <Grid item className='image' >
+          <img src={image} alt="main image"   />
           </Grid>
       </div>
   )
