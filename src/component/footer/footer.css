@@ -13,3 +13,7 @@ h6{
     justify-content: center;
     text-align: center;
 }
+
+.solid{
+    font-weight: lighter;
+}

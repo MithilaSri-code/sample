@@ -14,21 +14,21 @@ const Footer = () => {
                             <p> London to Europe, Sri Lanka, and Nigeria</p>
                         </Grid>
                         <Grid item xs={12} md={2} py={8} className='footer_mainlink' >
-                            <h4>Haqida</h4>
+                            <h3 >Haqida</h3>
                             <p><a href='/'>Book Online</a></p>
                             <p><a href='/'>About Us</a></p>
                             <p><a href='/'>Our Services</a></p>
 
                         </Grid>
                         <Grid item xs={12} md={2} py={8} className='footer_mainlink' >
-                            <h4>Links</h4>
+                            <h3 className='solid'>Links</h3>
                             <p><a href='/'>Careers</a></p>
                             <p><a href='/'>Help & Support</a></p>
                             <p><a href='/'>Blog</a></p>
 
                         </Grid>
                         <Grid item xs={12} md={2} py={8} className='footer_mainlink' >
-                            <h4>Contact</h4>
+                            <h3 className='solid'>Contact</h3>
                             <p><a href='/'>Download Android App</a></p>
                             <p><a href='/'>Download iOS App</a></p>
                             <p><a href='/'>Terms and Condition</a></p>
