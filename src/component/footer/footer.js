@@ -6,8 +6,8 @@ import './footer.css';
 const Footer = () => {
     return (
         <div>
-            <Box>
-                <Container className='footer_topic'>
+            <Box className='footer_topic'>
+                <Container >
                     <Grid container item >
                         <Grid item xs={12} md={6} py={8}>
                             <h1 >Branches</h1>
