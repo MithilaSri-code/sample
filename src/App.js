@@ -7,7 +7,7 @@ import Country_list from './component/country_list/country_list';
 import Invent_area from './component/invent_area/invent_area';
 import Reg_form from './component/reg_form/reg_form';
 import Slideshow from './component/header_slider/slider';
-import Post_area from './component/post_area/post_area';
+
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
       <Slideshow/>
       <Invent_area />
       <Main_image/>
+      <Contact />
       < Country_list />
       <Post_area />
      < Reg_form />
