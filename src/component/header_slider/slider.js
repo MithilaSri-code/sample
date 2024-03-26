@@ -11,7 +11,7 @@ const Slideshow = () => {
                 <img src={localImage} alt="main image" style={{ maxWidth: '100%', height: 'auto' }} />
             </Slide>
 
-            <Grid className='enroll_link' md={3} >
+            <Grid className='enroll_link' md={3} style={{ maxWidth: '100%', height: 'auto' }} >
                 <a href='/'>    Enroll now for the June 2024  intake </a>
 
             </Grid>
