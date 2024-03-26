@@ -1,0 +1,16 @@
+.topic {
+  white-space: nowrap;
+}
+
+.mainlink {
+  white-space: nowrap;
+  display: flex;
+  justify-content: space-between;
+}
+.mainlink a {
+  text-decoration: none;
+}
+
+.mainlink  :hover {
+  text-decoration: underline;
+}

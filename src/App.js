@@ -1,12 +1,14 @@
-import logo from './logo.svg';
+/* eslint-disable react/jsx-pascal-case */
+
 import './App.css';
-import header_top from './component/header_top/header_top';
+import Header_top from './component/header_top/header_top';
 
 function App() {
   return (
     <div>
-<header_top/>
-<h1>mithila</h1>
+
+      <Header_top />
+
 </div>
   );
 }
