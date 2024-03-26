@@ -12,7 +12,7 @@ const Slideshow = () => {
             </Slide>
 
             <Grid className='enroll_link' md={3} >
-                <a href='/'>  Enroll now for the June 2024  intake </a>
+                <a href='/'>    Enroll now for the June 2024  intake </a>
 
             </Grid>
         </div>

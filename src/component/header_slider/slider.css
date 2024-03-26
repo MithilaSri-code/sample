@@ -5,7 +5,9 @@
 }
 
 .enroll_link{
-    width: 400px;
+    width: 600px;
+    font-size: 25px;
+    padding-top: 30px;
 }
 
 .enroll_link a{

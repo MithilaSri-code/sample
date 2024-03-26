@@ -13,3 +13,13 @@
 
     border-radius: 0 0 80px 80px;
 }
+
+
+.montserrat-font {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  text-align: center;
+}
