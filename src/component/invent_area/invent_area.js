@@ -11,6 +11,9 @@ const Invent_area = () => {
                 <Container className='topic'>
                     <Grid container item >
                         <Grid item xs={12} md={6} py={4}>
+                            <Grid className='enroll_link' md={6} >
+                                Enroll now for the June 2024  intake
+                                </Grid>
                             <h1 >Invent
                                 <span className='redcolor'>   A New You</span>
                                  with us </h1>
