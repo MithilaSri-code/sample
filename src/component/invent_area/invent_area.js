@@ -8,13 +8,14 @@ const Invent_area = () => {
     return (
         <div>
             <Box>
-                <Container className='topic'>
+                <Container className='montserrat-font'>
                     <Grid container item >
                         <Grid item xs={12} md={6} py={4}>
-                            <h1 >Invent
+
+                            <h1 className='font' >Invent <br></br>
                                 <span className='redcolor'>   A New You</span>
-                                 with us </h1>
-                            <h1> Disruptive Education </h1>
+                                  <br></br>with us </h1>
+                            <h4> Disruptive Education </h4>
                         </Grid>
                         <Grid item xs={12} md={6} py={4} className='mainlink' >
                             <img src={image} alt="main image" style={{ maxWidth: '100%', height: 'auto' }}  />
