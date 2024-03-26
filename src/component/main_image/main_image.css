@@ -1,3 +1,5 @@
 .image{
- width: 1000px;
+ width: 100%;
+  height: auto;
+  max-width: 400px;
 }

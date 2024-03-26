@@ -1,7 +1,7 @@
 .topic_area {
   display: flex;
   justify-content: space-between;
- 
+
 }
 
 .main_post_area{
@@ -16,4 +16,14 @@
 .post_main{
     display: flex;
   justify-content: space-around;
+}
+
+@media screen and (max-width: 900px) {
+  .post_main {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+
+
 }
