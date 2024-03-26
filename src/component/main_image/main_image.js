@@ -7,7 +7,8 @@ const Main_image = () => {
   return (
       <div>
       <Grid item className='image' >
-          <img src={image} alt="main image"   />
+        <img src={image} alt="main image" width={1300} height={753} />
+
           </Grid>
       </div>
   )
