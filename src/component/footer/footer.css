@@ -1,6 +1,7 @@
 .footer_topic{
     background-color:rgb(2,25,52);
     color: white;
+    margin-top: 20px;
 }
 
 .footer_mainlink a{
@@ -16,4 +17,15 @@ h6{
 
 .solid{
     font-weight: lighter;
+}
+
+
+@media screen and (max-width: 900px) {
+  .footer_topic {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+
+
 }

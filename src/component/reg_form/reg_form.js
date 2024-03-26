@@ -10,12 +10,12 @@ const Reg_form = () => {
                 <h1 className='header'>Stay informed, join our newsletter</h1>
             </Grid>
             <Grid>
-                <form className='form'>
+                <form className='form' style={{ maxWidth: '100%', height: 'auto' }}>
                     <label><h3>Enter Email</h3></label>
                     <textarea placeholder='email here'className='teat_area' ></textarea>
                     <label><h3>Enter Full Name</h3></label>
                     <textarea placeholder='full name here' className='teat_area'  ></textarea>
-                    <button className='button'><h1>Subscribe</h1></button>
+                    <button className='button' style={{ maxWidth: '100%', height: 'auto' }} ><h1>Subscribe</h1></button>
                 </form>
             </Grid>
         </div>
